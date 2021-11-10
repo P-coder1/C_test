@@ -1,0 +1,34 @@
+﻿빌드 시작: 2014-11-18 오후 3:26:06
+     1>2 노드의 "F:\1학년\2학기 학교수업자료\C언어\20141118_C언어_구조체배열\20141118_C언어_구조체배열\20141118_C언어_구조체배열.vcxproj" 프로젝트(build 대상)입니다.
+     1>InitializeBuildStatus:
+         "AlwaysCreate"이(가) 지정되었기 때문에 "Release\20141118_C언어_구조체배열.unsuccessfulbuild"을(를) 만들고 있습니다.
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "구조체 배열.cpp"
+         구조체 배열.cpp
+     1>구조체 배열.cpp(22): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files\Microsoft Visual Studio 10.0\VC\include\string.h(105) : 'strcpy' 선언을 참조하십시오.
+     1>구조체 배열.cpp(23): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files\Microsoft Visual Studio 10.0\VC\include\string.h(105) : 'strcpy' 선언을 참조하십시오.
+     1>구조체 배열.cpp(24): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files\Microsoft Visual Studio 10.0\VC\include\string.h(105) : 'strcpy' 선언을 참조하십시오.
+     1>구조체 배열.cpp(25): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files\Microsoft Visual Studio 10.0\VC\include\string.h(105) : 'strcpy' 선언을 참조하십시오.
+     1>구조체 배열.cpp(26): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files\Microsoft Visual Studio 10.0\VC\include\string.h(105) : 'strcpy' 선언을 참조하십시오.
+     1>구조체 배열.cpp(83): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(304) : 'scanf' 선언을 참조하십시오.
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\1학년\2학기 학교수업자료\C언어\20141118_C언어_구조체배열\Release\20141118_C언어_구조체배열.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\20141118_C언어_구조체배열.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\1학년\2학기 학교수업자료\C언어\20141118_C언어_구조체배열\Release\20141118_C언어_구조체배열.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\1학년\2학기 학교수업자료\C언어\20141118_C언어_구조체배열\Release\20141118_C언어_구조체배열.lib" /MACHINE:X86 "Release\구조체 배열.obj"
+         코드를 생성하고 있습니다.
+         코드를 생성했습니다.
+         20141118_C언어_구조체배열.vcxproj -> F:\1학년\2학기 학교수업자료\C언어\20141118_C언어_구조체배열\Release\20141118_C언어_구조체배열.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"F:\1학년\2학기 학교수업자료\C언어\20141118_C언어_구조체배열\Release\20141118_C언어_구조체배열.exe;#1" /manifest "Release\20141118_C언어_구조체배열.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         "Release\20141118_C언어_구조체배열.unsuccessfulbuild" 파일을 삭제하고 있습니다.
+         "Release\20141118_C언어_구조체배열.lastbuildstate"에 연결(touching)하고 있습니다.
+     1>"F:\1학년\2학기 학교수업자료\C언어\20141118_C언어_구조체배열\20141118_C언어_구조체배열\20141118_C언어_구조체배열.vcxproj" 프로젝트를 빌드했습니다(build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:01.51
