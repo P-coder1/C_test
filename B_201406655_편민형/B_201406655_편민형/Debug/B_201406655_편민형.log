@@ -1,0 +1,70 @@
+﻿빌드 시작: 2014-12-15 오전 11:06:30
+     1>2 노드의 "F:\시험제출용\B_201406655_편민형\B_201406655_편민형\B_201406655_편민형.vcxproj" 프로젝트(build 대상)입니다.
+     1>InitializeBuildStatus:
+         "Debug\B_201406655_편민형.unsuccessfulbuild"에 연결(touching)하고 있습니다.
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt "B_201406655_편민형.c"
+         B_201406655_편민형.c
+     1>f:\시험제출용\b_201406655_편민형\b_201406655_편민형\b_201406655_편민형.c(39): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(304) : 'scanf' 선언을 참조하십시오.
+     1>f:\시험제출용\b_201406655_편민형\b_201406655_편민형\b_201406655_편민형.c(48): warning C4013: 'SumGam'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+     1>f:\시험제출용\b_201406655_편민형\b_201406655_편민형\b_201406655_편민형.c(60): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 'fopen' 선언을 참조하십시오.
+     1>f:\시험제출용\b_201406655_편민형\b_201406655_편민형\b_201406655_편민형.c(61): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 'fopen' 선언을 참조하십시오.
+     1>f:\시험제출용\b_201406655_편민형\b_201406655_편민형\b_201406655_편민형.c(62): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 'fopen' 선언을 참조하십시오.
+     1>f:\시험제출용\b_201406655_편민형\b_201406655_편민형\b_201406655_편민형.c(92): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(304) : 'scanf' 선언을 참조하십시오.
+     1>f:\시험제출용\b_201406655_편민형\b_201406655_편민형\b_201406655_편민형.c(101): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 'fopen' 선언을 참조하십시오.
+     1>f:\시험제출용\b_201406655_편민형\b_201406655_편민형\b_201406655_편민형.c(102): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 'fopen' 선언을 참조하십시오.
+     1>f:\시험제출용\b_201406655_편민형\b_201406655_편민형\b_201406655_편민형.c(103): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 'fopen' 선언을 참조하십시오.
+     1>f:\시험제출용\b_201406655_편민형\b_201406655_편민형\b_201406655_편민형.c(133): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(304) : 'scanf' 선언을 참조하십시오.
+     1>f:\시험제출용\b_201406655_편민형\b_201406655_편민형\b_201406655_편민형.c(141): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 'fopen' 선언을 참조하십시오.
+     1>f:\시험제출용\b_201406655_편민형\b_201406655_편민형\b_201406655_편민형.c(142): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 'fopen' 선언을 참조하십시오.
+     1>f:\시험제출용\b_201406655_편민형\b_201406655_편민형\b_201406655_편민형.c(143): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 'fopen' 선언을 참조하십시오.
+     1>f:\시험제출용\b_201406655_편민형\b_201406655_편민형\b_201406655_편민형.c(144): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 'fopen' 선언을 참조하십시오.
+     1>f:\시험제출용\b_201406655_편민형\b_201406655_편민형\b_201406655_편민형.c(147): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(253) : 'fscanf' 선언을 참조하십시오.
+     1>f:\시험제출용\b_201406655_편민형\b_201406655_편민형\b_201406655_편민형.c(153): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(253) : 'fscanf' 선언을 참조하십시오.
+     1>f:\시험제출용\b_201406655_편민형\b_201406655_편민형\b_201406655_편민형.c(159): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(253) : 'fscanf' 선언을 참조하십시오.
+     1>f:\시험제출용\b_201406655_편민형\b_201406655_편민형\b_201406655_편민형.c(169): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(304) : 'scanf' 선언을 참조하십시오.
+     1>f:\시험제출용\b_201406655_편민형\b_201406655_편민형\b_201406655_편민형.c(182): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(304) : 'scanf' 선언을 참조하십시오.
+     1>f:\시험제출용\b_201406655_편민형\b_201406655_편민형\b_201406655_편민형.c(185): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 'fopen' 선언을 참조하십시오.
+     1>f:\시험제출용\b_201406655_편민형\b_201406655_편민형\b_201406655_편민형.c(193): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(253) : 'fscanf' 선언을 참조하십시오.
+     1>f:\시험제출용\b_201406655_편민형\b_201406655_편민형\b_201406655_편민형.c(204): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(304) : 'scanf' 선언을 참조하십시오.
+     1>f:\시험제출용\b_201406655_편민형\b_201406655_편민형\b_201406655_편민형.c(216): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 'fopen' 선언을 참조하십시오.
+     1>f:\시험제출용\b_201406655_편민형\b_201406655_편민형\b_201406655_편민형.c(221): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(253) : 'fscanf' 선언을 참조하십시오.
+     1>f:\시험제출용\b_201406655_편민형\b_201406655_편민형\b_201406655_편민형.c(234): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(304) : 'scanf' 선언을 참조하십시오.
+     1>f:\시험제출용\b_201406655_편민형\b_201406655_편민형\b_201406655_편민형.c(296): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(304) : 'scanf' 선언을 참조하십시오.
+       ManifestResourceCompile:
+         모든 출력이 최신 상태입니다.
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\시험제출용\B_201406655_편민형\Debug\B_201406655_편민형.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\B_201406655_편민형.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\시험제출용\B_201406655_편민형\Debug\B_201406655_편민형.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\시험제출용\B_201406655_편민형\Debug\B_201406655_편민형.lib" /MACHINE:X86 "Debug\B_201406655_편민형.exe.embed.manifest.res"
+         "Debug\B_201406655_편민형.obj"
+     1>B_201406655_편민형.obj : error LNK2019: _SumGam 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+     1>F:\시험제출용\B_201406655_편민형\Debug\B_201406655_편민형.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.
+     1>"F:\시험제출용\B_201406655_편민형\B_201406655_편민형\B_201406655_편민형.vcxproj" 프로젝트를 빌드했습니다(build 대상). - 실패
+
+빌드하지 못했습니다.
+
+경과 시간: 00:00:01.93
